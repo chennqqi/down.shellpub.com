@@ -3,18 +3,18 @@
         "name" : "hmb",
         "file" : "hmb-linux-386.tgz",
         "app" : "1.0.3",
-        "url" : "http://down.shellpub.com/hmb/1.0.3/hmb-linux-386.zip",
-        "md5" : "185D2DA8E932659C4366C6FC0BC61697",
-        "sha1" : "2D62F7D5FF0F75EBF34EEBAAE50B302F308B98CE",
-        "date" : "2017-09-21 17:08"
+        "url" : "http://down.shellpub.com/hmb/1.0.3/hmb-linux-386.tgz",
+        "md5" : "8B4AB306DF3773C05271DC1F5AF7B5FB",
+        "sha1" : "9C75E1BD8F583EA22E9291B0F3EA334FE56A66BB",
+        "date" : "2017-09-21 23:08"
     },
     {
         "name" : "hmb",
         "file" : "hmb-linux-amd64.tgz",
         "app" : "1.0.3",
-        "url" : "http://down.shellpub.com/hmb/1.0.3/hmb-linux-amd64.zip",
-        "md5" : "382F98825D95E82564C2D3FD83C61173",
-        "sha1" : "8D3FD470BF1F68BC07D77B02895C54CCA5CC843B",
-        "date" : "2017-09-21 17:08"
+        "url" : "http://down.shellpub.com/hmb/1.0.3/hmb-linux-amd64.tgz",
+        "md5" : "CB887C825B0AA0D1B97802365A03BA49",
+        "sha1" : "A5656599386FEF5F8CECA9F913F30783C73CFFBA",
+        "date" : "2017-09-21 23:08"
     }
 ]
