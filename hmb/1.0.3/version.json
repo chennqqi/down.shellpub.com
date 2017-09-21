@@ -1,0 +1,20 @@
+﻿[
+    {
+        "name" : "hmb",
+        "file" : "hmb-linux-386.tgz",
+        "app" : "1.0.3",
+        "url" : "http://down.shellpub.com/hmb/1.0.3/hmb-linux-386.zip",
+        "md5" : "185D2DA8E932659C4366C6FC0BC61697",
+        "sha1" : "2D62F7D5FF0F75EBF34EEBAAE50B302F308B98CE",
+        "date" : "2017-09-21 17:08"
+    },
+    {
+        "name" : "hmb",
+        "file" : "hmb-linux-amd64.tgz",
+        "app" : "1.0.3",
+        "url" : "http://down.shellpub.com/hmb/1.0.3/hmb-linux-amd64.zip",
+        "md5" : "382F98825D95E82564C2D3FD83C61173",
+        "sha1" : "8D3FD470BF1F68BC07D77B02895C54CCA5CC843B",
+        "date" : "2017-09-21 17:08"
+    }
+]
