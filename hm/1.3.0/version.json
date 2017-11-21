@@ -3,7 +3,7 @@
         "name" : "hm",
         "file" : "hm-linux-386.tgz",
         "app" : "1.3.0",
-        "url" : "http://down.shellpub.com/hm/1.3.0/hm-linux-386.zip",
+        "url" : "http://down.shellpub.com/hm/1.3.0/hm-linux-386.tgz",
         "md5" : "E5ECE6F48C5B7DDE62EA583192C82281",
         "sha1" : "27F75E4B80DFB78DC6B0153407E86F1436CF2CF0",
         "date" : "2017-11-21 23:08"
@@ -12,7 +12,7 @@
         "name" : "hm",
         "file" : "hm-linux-amd64.tgz",
         "app" : "1.3.0",
-        "url" : "http://down.shellpub.com/hm/1.3.0/hm-linux-amd64.zip",
+        "url" : "http://down.shellpub.com/hm/1.3.0/hm-linux-amd64.tgz",
         "md5" : "C47E77D922EE14272F338E0A03FDFE21",
         "sha1" : "435770AF753CBE329687FF9B2E600E43B448251E",
         "date" : "2017-11-21 23:08"
