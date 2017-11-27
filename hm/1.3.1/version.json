@@ -4,8 +4,8 @@
         "app" : "1.3.1",
         "url" : "http://down.shellpub.com/hm/1.3.1/hm-linux-386.tgz",
         "file":"hm-linux-386.tgz",
-        "md5":"a8848696729b53f247ccc28f7d1b3034",
-        "sha1":"391a6d278c7b387daf4a8df6e94a2030bd7311cb",
+        "md5":"e5ece6f48c5b7dde62ea583192c82281",
+        "sha1":"27f75e4b80dfb78dc6b0153407e86f1436cf2cf0",
         "date" : "2017-11-26 19:08"
     },
     {
@@ -13,8 +13,8 @@
         "file" : "hm-linux-amd64.tgz",
         "app" : "1.3.1",
         "url" : "http://down.shellpub.com/hm/1.3.1/hm-linux-amd64.tgz",
-        "md5":"ac8d6c9a24054eeb724eb66af2e4f6ca",
-        "sha1":"7a245d7189752b0eac0e322d13b5a61635198ca4",
+        "md5":"c47e77d922ee14272f338e0a03fdfe21",
+        "sha1":"435770af753cbe329687ff9b2e600e43b448251e",
         "date" : "2017-11-26 19:08"
     }
     {
@@ -22,8 +22,8 @@
         "file" : "hm-windows-386.zip",
         "app" : "1.3.1",
         "url" : "http://down.shellpub.com/hm/1.3.1/hm-windows-386.zip",
-        "md5":"713235c800f12ef61f412bcb9d26847c",
-        "sha1":"05444e19f662ff478aafea80c14630b30684faae",
+        "md5":"2b3bb08762805ac10151c21689dcd085",
+        "sha1":"314667d40ec6b6c930f7129e54297122656c4503",
         "date" : "2017-11-26 19:08"
     }
 ]
