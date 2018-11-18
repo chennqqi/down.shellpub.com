@@ -1,0 +1,29 @@
+[
+	{
+        "name":"hm",
+        "app":"1.5.0",
+        "url":"http://dl.shellpub.com/hm/1.5.0/hm-linux-386.tgz",
+        "file":"hm-linux-386.tgz",
+        "md5":"8cf8cd2390a229d486befe3e4f930957",
+        "sha1":"cb80fdfd6bd0093f4691280f5eeea54180091e90",
+        "date":"2018-11-18T23:00:40"
+    },
+	{
+        "name":"hm",
+        "app":"1.5.0",
+        "url":"http://dl.shellpub.com/hm/1.5.0/hm-linux-amd64.tgz",
+        "file":"hm-linux-amd64.tgz",
+        "md5":"3c3f10c7d2e49235cb6027a09204bb35",
+        "sha1":"70c261661743d2615cafb1774c29fd65a32cf756",
+        "date":"2018-11-18T23:00:40"
+    },
+	{
+        "name":"hm",
+        "app":"1.5.0",
+        "url":"http://dl.shellpub.com/hm/1.5.0/hm-windows-386.zip",
+        "file":"hm-windows-386.zip",
+        "md5":"55e1f6966562e443b54e7db06c961a7b",
+        "sha1":"6ea2092588be16c422e16618e9c458ec7b759c78",
+        "date":"2018-11-18T23:00:40"
+    }
+]
