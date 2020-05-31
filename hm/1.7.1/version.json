@@ -1,0 +1,29 @@
+[
+	{
+        "name":"hm",
+        "app":"1.7.1",
+        "url":"http://dl.shellpub.com/hm/1.7.1/hm-linux-386.tgz",
+        "file":"hm-linux-386.tgz",
+        "md5":"0bc43099b2eb2dae2379c60f4813b817",
+        "sha1":"6dece0f2986c9d0d2686587ac88747ae955d5d3c",
+        "date":"2020-05-31T23:00:00:00"
+    },
+	{
+        "name":"hm",
+        "app":"1.7.1",
+        "url":"http://dl.shellpub.com/hm/1.7.1/hm-linux-amd64.tgz",
+        "file":"hm-linux-amd64.tgz",
+        "md5":"9b81798df063f1d60dde0153ffbc80aa",
+        "sha1":"9d317e5150515e54a76520021ee8dc7629c3b319",
+        "date":"2020-05-31T23:00:00:00"
+    },
+	{
+        "name":"hm",
+        "app":"1.7.1",
+        "url":"http://dl.shellpub.com/hm/1.7.1/hm-windows-386.zip",
+        "file":"hm-windows-386.zip",
+        "md5":"f6c39c5e6f04f57fd8d0eb4164ce8e0f",
+        "sha1":"ec44045fdd3cd6a36831b15d816715621d20b30d",
+        "date":"2020-05-31T23:00:00:00"
+    }
+]
